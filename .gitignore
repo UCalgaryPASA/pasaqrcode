@@ -1,0 +1,9 @@
+# python compiled files
+__pycache__
+*.pyc
+build
+*.egg-info
+
+# exported pngs
+*.png
+!pasa_logo.png
